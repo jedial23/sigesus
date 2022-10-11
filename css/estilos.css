@@ -3,7 +3,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background-color: #4175fc;
+    background-color: #1251f0;
     color: #ffffff;
     font-size: 14px;
     text-align: center;
@@ -24,7 +24,7 @@ input[type="submit"]{
     padding: 10px;
     width: 380px;
     color: #ffff;
-    background: #f1ecec;
+    background: #0098cb;
     margin-top: 0px;
     border: 0px;
     border-radius: 3px;
